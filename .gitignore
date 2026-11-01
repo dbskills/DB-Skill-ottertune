@@ -102,3 +102,7 @@ out/
 # Text editor configs #
 #######################
 .vimrc
+
+# Skill runtime state #
+#######################
+skill_state/
